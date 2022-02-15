@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Minnor-project",
+    "slug": "Minnor-project",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.yourcompany.yourappname",
+      "versionCode": 1
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
+
+
+

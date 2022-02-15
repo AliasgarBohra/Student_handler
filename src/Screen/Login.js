@@ -37,7 +37,6 @@ import Signup from "./Signup";
               alt="Studethandelr"
             />
           
-          <PageTitle>Students</PageTitle>
           <SubTilte>Account Login </SubTilte>
           <Formik
             initialValues={{ email: "", password: "" }}

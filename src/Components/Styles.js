@@ -14,20 +14,19 @@ export const Colors = {
 const { primary, secondary, tertiary, darklight } = Colors;
 
 export const StyledContainer = styled.View`
-  flex: 1;
-  padding: 25px;
-  margin-top: 2%;
-  width: 100%;
-  padding-top: ${StatusBarHeight + 10}px;
-  background-color: ${primary};
+flex:1;
+background-color:white;
+padding:2%;
+
 `;
 export const InnerContainer = styled.View`
-width:100%;
+
 
 `;
 export const PageLogo = styled.Image`
-  width: 250px;
-  height: 200px;
+width: 200px;
+height: 200px;
+  
 `;
 
 export const PageTitle = styled.Text`

@@ -14,14 +14,11 @@ export default function Home() {
         <View>
             <ScrollView>
                 <View style={{
-                    paddingLeft: 15,
-                    paddingRight: 15,
-                    paddingTop: (edges.top + 65),
-                    paddingBottom: 25
+                paddingTop:100
                 }}>
-               <Text>
-                   <Login></Login>
-               </Text>
+                   <Login>
+
+                   </Login>
                 </View>
             </ScrollView>
         </View>
